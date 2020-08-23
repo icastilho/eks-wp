@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="757cca22-e401-464d-a538-de403d1101ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gSFRNSU2o7107cg5lwMg9LUWZ6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="tasks.timeTracking" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/aws" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task id="Default" summary="Default task">
+      <changelist id="757cca22-e401-464d-a538-de403d1101ae" name="Default Changelist" comment="" />
+      <created>1598100077769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598103645091</updated>
+      <workItem from="1598100078859" duration="1404000" />
+    </task>
+    <task active="true" id="LOCAL-00001" summary="(Deploy) Create AWS Wordpress kubernetes  Cluster">
+      <created>1598103608971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598103645091</updated>
+      <workItem from="1598103645221" duration="37683000" />
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="170" y="127" width="1096" height="541" key="DiffContextDialog" timestamp="1598105248845">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="170" y="127" width="1096" height="541" key="DiffContextDialog/70.27.1296.741@70.27.1296.741" timestamp="1598105248845" />
+    <state x="207" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1598103591609">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="207" y="31" width="1022" height="737" key="SettingsEditor/70.27.1296.741@70.27.1296.741" timestamp="1598103591609" />
+    <state x="617" y="316" width="192" height="170" key="SimpleOpenTaskDialog" timestamp="1598103645124">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="617" y="316" width="192" height="170" key="SimpleOpenTaskDialog/70.27.1296.741@70.27.1296.741" timestamp="1598103645124" />
+    <state x="328" y="27" width="770" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598118317419">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="328" y="27" width="770" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/70.27.1296.741@70.27.1296.741" timestamp="1598118317419" />
+    <state x="409" y="136" width="618" height="586" key="find.popup" timestamp="1598197323591">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="409" y="136" width="618" height="586" key="find.popup/70.27.1296.741@70.27.1296.741" timestamp="1598197323591" />
+    <state x="382" y="40" width="672" height="676" key="search.everywhere.popup" timestamp="1598103582728">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="382" y="40" width="672" height="676" key="search.everywhere.popup/70.27.1296.741@70.27.1296.741" timestamp="1598103582728" />
+  </component>
+</project>
